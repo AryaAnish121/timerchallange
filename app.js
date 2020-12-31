@@ -2,7 +2,7 @@ setInterval(function() {
 
     const today = new Date().getTime();
 
-    const newYear = new Date("jan 1 2021").getTime();
+    const newYear = new Date("jan 31 2021").getTime();
 
     const timeLeft = newYear - today;
 
